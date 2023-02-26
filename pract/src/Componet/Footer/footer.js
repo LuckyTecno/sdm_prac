@@ -1,3 +1,3 @@
-const function demo(){
+function demo(){
     console.log("hellow this is foooter");
 }
